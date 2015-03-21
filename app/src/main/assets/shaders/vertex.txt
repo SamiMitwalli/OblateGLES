@@ -1,0 +1,10 @@
+attribute mediump vec4 attr_pos;
+attribute mediump vec2 attr_uv;
+uniform mediump vec2 movePos;
+varying mediump vec2 vary_uv;
+
+void main() {
+    gl_Position = attr_pos;
+    gl_Position.xy += movePos;
+    vary_uv = attr_uv;
+}

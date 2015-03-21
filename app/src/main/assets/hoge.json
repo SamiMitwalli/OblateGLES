@@ -1,0 +1,30 @@
+{"frames": [
+
+{
+	"name": "aresAmulet_item.png",
+	"frame": {"x":2,"y":2,"w":32,"h":32}
+},
+{
+	"name": "catsEyeAmulet_item.png",
+	"frame": {"x":36,"y":2,"w":32,"h":32}
+},
+{
+	"name": "fireAmulet_item.png",
+	"frame": {"x":70,"y":2,"w":64,"h":64}
+},
+{
+	"name": "fireGodAmulet_item.png",
+	"frame": {"x":136,"y":2,"w":64,"h":64}
+},
+{
+	"name": "fireWand_item.png",
+	"frame": {"x":202,"y":2,"w":64,"h":64}
+},
+{
+	"name": "flameAmulet_item.png",
+	"frame": {"x":268,"y":2,"w":64,"h":64}
+}],
+"meta": {
+	"size": {"w":334,"h":68}
+}
+}
