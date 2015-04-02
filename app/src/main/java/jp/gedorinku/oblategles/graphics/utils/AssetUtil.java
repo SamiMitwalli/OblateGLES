@@ -13,7 +13,7 @@ public final class AssetUtil {
 
         String line;
         while ((line = bufferedReader.readLine()) != null) {
-            stringBuilder.append(line);
+            stringBuilder.append(line + "\n");
         }
 
         bufferedReader.close();
